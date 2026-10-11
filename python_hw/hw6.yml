@@ -1,5 +1,0 @@
-name: hw6_env
-channels:
-dependencies:
-
-prefix: "/home/guginyte/miniforge3/envs/hw6_env"
